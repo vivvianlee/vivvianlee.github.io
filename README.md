@@ -2,6 +2,6 @@
 
 
 
-Here is the link to the final project
+Here is the [link to the final project]()
 
-Here is the link to the project code
+Here is the [link to the project code](https://colab.research.google.com/drive/1ogdn43Q9XJr9-GZFoT8cRXYVZ-V7Hdfm?usp=sharing)
